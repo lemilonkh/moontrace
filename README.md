@@ -1,5 +1,4 @@
 # MoonTrace
-
 ![Logo](logo.png)
 
 ## Information
